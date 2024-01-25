@@ -2,8 +2,8 @@
 This is a Course Recommender System using natural language processing and machine learning techniques. The system is designed to provide personalized course recommendations based on user-inputted text, allowing users to discover relevant courses tailored to their interests and skills.
 
 
-![Course Recommender System](/output_image.png)
-(/img4.png)
+![Course Recommender System](/img4.png)
+
 
 ## Features
 - **Text Preprocessing:** The system preprocesses course names, descriptions, and skills to create a unified set of features for similarity comparison.
