@@ -3,6 +3,7 @@ This is a Course Recommender System using natural language processing and machin
 
 
 ![Course Recommender System](/output_image.png)
+(/img4.png)
 
 ## Features
 - **Text Preprocessing:** The system preprocesses course names, descriptions, and skills to create a unified set of features for similarity comparison.
