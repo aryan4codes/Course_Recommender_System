@@ -6,7 +6,7 @@ import seaborn as sns
 import nltk
 import streamlit as st
 
-data= pd.read_csv('\Coursera.csv')
+data= pd.read_csv('Coursera.csv')
 
 data = data[['Course_Name','Difficulty Level','Course Description','Skills']]
 # Removing spaces between the words (Lambda funtions can be used as well)
