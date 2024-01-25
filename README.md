@@ -14,7 +14,7 @@ This is a Course Recommender System using natural language processing and machin
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/course-recommender-system.git
+   git clone https://github.com/norZeNo/course-recommender-system.git
    cd course-recommender-system
 
 
